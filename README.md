@@ -1,4 +1,4 @@
-# 🎮 Shadow Nail - A Hollow Knight Tribute
+# 🎮 Shroombound - A Hollow Knight Tribute
 
 A Hollow Knight-inspired 2D platformer MVP built with **Phaser 3** and **TypeScript**.
 
